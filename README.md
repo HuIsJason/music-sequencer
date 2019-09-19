@@ -1,7 +1,7 @@
 # Music-Sequencer
-A music sequencer that stores, manages, and manipulates musical notes stored in nodes of a BST.
+A musical sequencer storage application based on musical notes in the form of nodes stored in BSTs.
 
-A project for 2019 CSCA48: Introduction to Computer Science II course. A sequencer storage application based on BSTs. 
+A project for 2019 CSCA48: Introduction to Computer Science II course.
 
 Features basic functions such as:
 * pre-order, in-order, and post-order tree traversals
