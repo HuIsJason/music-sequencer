@@ -33,7 +33,7 @@
  * (c) 2019 - F. Estrada & M. Ahmadzadeh
  */
 
-#include "BSTs_1005349204.c"
+#include "music_sequencer.c"
 
 int main()
 {
